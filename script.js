@@ -40,7 +40,48 @@ const quizData = [
         c: "William Nugget",
         d: "Dean Crab",
         correct:"a",
-    }
+    },
+    {
+        question: "Apa nama benua terbesar di dunia?",
+        a: "Asia",
+        b: "Australia",
+        c: "Afrika",
+        d: "Antartika",
+        correct:"a",
+    },
+    {
+        question: "Apa nama olahraga yang menggunakan bola berwarna oranye dan keranjang?",
+        a: "Futsal",
+        b: "Sepak Bola",
+        c: "Bola Basket",
+        d: "Bola Voli",
+        correct:"c",
+    },
+    {
+        question: "Apa nama planet terdekat dengan Matahari?",
+        a: "Merkurius",
+        b: "Venus",
+        c: "Bumi",
+        d: "Mars",
+        correct:"a",
+    },
+    {
+        question: "Apa nama hewan yang memiliki belalai panjang dan gading besar?",
+        a: "Banteng",
+        b: "Gajah",
+        c: "Kudanil",
+        d: "Jerapah",
+        correct:"b",
+    },
+    {
+        question: "Apa nama ibukota Prancis?",
+        a: "Berlin",
+        b: "London",
+        c: "Roma",
+        d: "Paris",
+        correct:"d",
+    },
+
 ];
 
 const quiz = document.getElementById('quiz');
